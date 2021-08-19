@@ -1,0 +1,12 @@
+
+
+az account set --subscription <id suscripción>
+
+crear el resource group
+
+az group create --name myrg_dbservers  --location westus
+
+
+crear server bd
+az mariadb server create --resource-group myrg_dbservers --name mydemoservermysqltest  --location westus --admin-user adminmysql --admin-password P4ssw.rd123 --sku-name GP_Gen5_2 --version 10.2
+ 

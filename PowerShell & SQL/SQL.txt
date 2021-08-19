@@ -1,0 +1,38 @@
+
+SQL 
+CREATE DATABASE RRHHDB;
+USE RRHHDB;
+
+CREATE TABLE empleados (
+    id serial PRIMARY KEY, 
+    nombre VARCHAR(50), 
+    salario DECIMAL,
+    fecha_nacimiento DATE
+);
+
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (1, 'Maria Perez', 1500, '1989-11-11'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (2, 'Daniel Lopez', 5600, '1975-01-17'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (3, 'Juliana Dominguez', 3500, '1999-09-02'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (4, 'Carolina Herrera', 2500, '1981-12-23'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (5, 'Roger Federer', 3400, '1962-10-01'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (6, 'Maria Sharapova', 7200, '1986-05-15'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (7, 'Diana Rendon', 4200, '1999-11-07'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (8, 'Cristina Watss', 2100, '2001-02-01'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (9, 'Camila Osorio', 5100, '1996-03-11'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (10, 'Daniel kasey', 1500, '1992-04-05'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (11, 'Pedro Sanchez', 1900, '1997-03-03'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (12, 'Marta Galan', 2500, '2003-02-05'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (13, 'Juan Gaviria', 3500, '2000-01-01'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (14, 'Catalina Londoño', 3600, '1982-10-21'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (15, 'Teresa Fernandez', 2800, '1999-06-19'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (16, 'Sebastian Perez', 1850, '1991-09-15'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (17, 'Carlos Vallejo', 3150, '1998-03-11'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (18, 'Gabriela Messi', 4550, '1991-12-31'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (19, 'Fernando Garcia', 4120, '1989-11-01'); 
+INSERT INTO empleados (id, nombre, salario, fecha_nacimiento) VALUES (20, 'Samuel Diaz', 3810, '1979-01-09'); 
+
+SELECT * FROM empleados;
+
+UPDATE empleados SET salario = 1510 WHERE id = 1;
+
+SELECT * FROM empleados;

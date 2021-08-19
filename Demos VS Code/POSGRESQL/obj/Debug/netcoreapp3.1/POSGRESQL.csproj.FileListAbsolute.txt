@@ -1,0 +1,15 @@
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.exe
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.deps.json
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.runtimeconfig.json
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.runtimeconfig.dev.json
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.dll
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\POSGRESQL.pdb
+C:\ossdbs\POSGRESQL\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.csprojAssemblyReference.cache
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.AssemblyInfoInputs.cache
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.AssemblyInfo.cs
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.csproj.CoreCompileInputs.cache
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.csproj.CopyComplete
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.dll
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.pdb
+C:\ossdbs\POSGRESQL\obj\Debug\netcoreapp3.1\POSGRESQL.genruntimeconfig.cache

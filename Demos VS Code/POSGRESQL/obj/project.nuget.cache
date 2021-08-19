@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLgqXS/hCvgDgKn1cob5IUqOVaLICnf0Unp4sHHQOc2Lw5B4BKQH3C9qqV+Ol6SNWsvKXUK4c3nAOkYXQ6uU1g==",
+  "success": true,
+  "projectFilePath": "C:\\ossdbs\\POSGRESQL\\POSGRESQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maritzag\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\maritzag\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

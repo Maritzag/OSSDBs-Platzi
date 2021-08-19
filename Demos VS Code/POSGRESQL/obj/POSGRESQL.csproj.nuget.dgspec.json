@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ossdbs\\POSGRESQL\\POSGRESQL.csproj": {}
+  },
+  "projects": {
+    "C:\\ossdbs\\POSGRESQL\\POSGRESQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ossdbs\\POSGRESQL\\POSGRESQL.csproj",
+        "projectName": "POSGRESQL",
+        "projectPath": "C:\\ossdbs\\POSGRESQL\\POSGRESQL.csproj",
+        "packagesPath": "C:\\Users\\maritzag\\.nuget\\packages\\",
+        "outputPath": "C:\\ossdbs\\POSGRESQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maritzag\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

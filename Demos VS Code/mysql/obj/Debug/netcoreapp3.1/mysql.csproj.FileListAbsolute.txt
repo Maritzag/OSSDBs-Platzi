@@ -1,0 +1,15 @@
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.exe
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.deps.json
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.runtimeconfig.json
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.runtimeconfig.dev.json
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.dll
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\mysql.pdb
+C:\ossdbs\mysql\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.csprojAssemblyReference.cache
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.AssemblyInfoInputs.cache
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.AssemblyInfo.cs
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.csproj.CoreCompileInputs.cache
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.csproj.CopyComplete
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.dll
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.pdb
+C:\ossdbs\mysql\obj\Debug\netcoreapp3.1\mysql.genruntimeconfig.cache

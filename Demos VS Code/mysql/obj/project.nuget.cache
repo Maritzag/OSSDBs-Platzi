@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GLTZtZt8RAWOhlI8vrFF5WZO0LM2waoKYZ3Q6JlHmGjUcA52ufSd2bvCouKFrLHOVDfekjDcJq2a1eMtzGvyw==",
+  "success": true,
+  "projectFilePath": "C:\\ossdbs\\mysql\\mysql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maritzag\\.nuget\\packages\\mysqlconnector\\1.3.11\\mysqlconnector.1.3.11.nupkg.sha512"
+  ],
+  "logs": []
+}
